@@ -17,3 +17,6 @@ Another issue is that my mutex lock is probably not implemented perfectly, as I 
 
 Reproduction:
 In order to reproduce this project you would need to install the qemu emulator. I use version 3 on linux. You would also need to install the GNU Arm embedded toolchain gcc compiler for linux. I am using the July 2018 updated version. With these two things, the code can be easily compiled using the Makefile provided in the build folder. 
+
+
+*Note that my github does not have a consistent commit schedule. This is because I forgot that it was a requirement of the assignment, and did all of my work and testing locally, before uploading a nearly finished project to github.
